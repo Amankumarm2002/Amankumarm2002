@@ -1,7 +1,8 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Aman Kumar Mishra</h1>
 <h3 align="center">A passionate Data Analyst & Data Scientist from India</h3>
-https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumarm2002&label=Profile%20views&color=0e75b6&style=flat" alt="amankumarm2002" /> </p>
 
