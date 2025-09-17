@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumarm2002&label=Profile%20views&color=0e75b6&style=flat" alt="amankumarm2002" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 "Refining my expertise in Data Science, one commit at a time."
 
 - 📫 How to reach me [aman33963@gmail.com](mailto:aman33963@gmail.com)
 
