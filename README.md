@@ -25,27 +25,27 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/aman-kumar-mishra2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aman Kumar Mishra LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/amankm2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Aman Kumar Mishra Kaggle" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/amankrmishra_2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Aman Kumar Mishra LeetCode" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/28610781/amankrmishra-2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Aman Kumar Mishra StackOverflow" height="30" width="40" /></a>
-  <a href="https://twitter.com/amankum73440454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amankum73440454" height="30" width="40" /></a>
-  <a href="https://dev.to/aman_kumarmishra_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Aman Kumar Mishra Dev.to" height="30" width="40" /></a>
-  <a href="https://medium.com/@aman33963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Aman Kumar Mishra Medium" height="30" width="40" /></a>
-  <a href="https://hashnode.com/@aman2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Aman Kumar Mishra Hashnode" height="30" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/aman3we1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Aman Kumar Mishra GFG" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/aman33963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Aman Kumar Mishra HackerRank" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/amankrm_2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Aman Kumar Mishra CodeChef" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/amankumarmishra_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Aman Kumar Mishra Codeforces" height="30" width="40" /></a>
-  <a href="https://www.hackerearth.com/@aman33963/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="Aman Kumar Mishra HackerEarth" height="30" width="40" /></a>
-  <a href="https://profiles.topcoder.com/aman2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="Aman Kumar Mishra TopCoder" height="30" width="40" /></a>
-  <a href="https://codesandbox.io/u/aman33963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Aman Kumar Mishra CodeSandbox" height="30" width="40" /></a>
-  <a href="https://codepen.io/aman-kumar-mishra-the-flexboxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Aman Kumar Mishra CodePen" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/mishraamankumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aman Kumar Mishra Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@amankumarmishra1542" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Aman Kumar Mishra YouTube" height="30" width="40" /></a>
-  <a href="https://discord.com/channels/1047197230748151888/1050209849725689896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aman Kumar Mishra Discord" height="30" width="40" /></a>
-  <a href="https://dribbble.com/aman-kumar-mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Aman Kumar Mishra Dribbble" height="30" width="40" /></a>
-  <a href="https://www.behance.net/amankumar812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Aman Kumar Mishra Behance" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/aman-kumar-mishra2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" " height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/amankm2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt=" " height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/amankrmishra_2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt=" " height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/28610781/amankrmishra-2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt=" " height="30" width="40" /></a>
+  <a href="https://twitter.com/amankum73440454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=" " height="30" width="40" /></a>
+  <a href="https://dev.to/aman_kumarmishra_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt=" " height="30" width="40" /></a>
+  <a href="https://medium.com/@aman33963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt=" " height="30" width="40" /></a>
+  <a href="https://hashnode.com/@aman2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt=" " height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/aman3we1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt=" " height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/aman33963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt=" " height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/amankrm_2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt=" " height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/amankumarmishra_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt=" " height="30" width="40" /></a>
+  <a href="https://www.hackerearth.com/@aman33963/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt=" " height="30" width="40" /></a>
+  <a href="https://profiles.topcoder.com/aman2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt=" " height="30" width="40" /></a>
+  <a href="https://codesandbox.io/u/aman33963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt=" " height="30" width="40" /></a>
+  <a href="https://codepen.io/aman-kumar-mishra-the-flexboxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt=" " height="30" width="40" /></a>
+  <a href="https://www.instagram.com/mishraamankumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=" " height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@amankumarmishra1542" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt=" " height="30" width="40" /></a>
+  <a href="https://discord.com/channels/1047197230748151888/1050209849725689896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=" " height="30" width="40" /></a>
+  <a href="https://dribbble.com/aman-kumar-mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt=" " height="30" width="40" /></a>
+  <a href="https://www.behance.net/amankumar812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt=" " height="30" width="40" /></a>
 </p>
 
 ---
@@ -97,4 +97,16 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 📊 GitHub Statistics:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amankumarm2002&show_icons=true&locale=en&layout=compact" alt=" " height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amankumarm2002&show_icons=true&locale=en" alt=" " height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amankumarm2002&" alt=" " />
 </p>
