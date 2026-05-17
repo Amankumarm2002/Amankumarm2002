@@ -17,13 +17,9 @@
 
 - 💬 Ask me about **Data Science & AI/ML**
 
-- 📫 How to reach me [aman33963@gmail.com](mailto:aman33963@gmail.com)
+- 📫 How to reach me: [aman33963@gmail.com](mailto:aman33963@gmail.com)
 
 - ⚡ Fun fact **ECE Student exploring AL,Data Science & Full Stack Development**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
